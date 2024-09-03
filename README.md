@@ -4,5 +4,7 @@
 A Software Developer Student
 
 ⚙️: I'm currently Learning: ``.js``, ``.java``, ``.php``
-⭐️ I use daily: ``.html``, ``.css``, ``.psd``, ``.indd``, ``.ai``,
+
+⭐️ I use daily: ``.html``, ``.css``, ``.psd``, ``.indd``, ``.ai``
+
 🧑‍💻 I 
