@@ -1,6 +1,4 @@
-![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/14af2082-b022-42ac-83f8-ad72360be511)
-
-# Hello there 👋 
+# Hello there 👋 ![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/14af2082-b022-42ac-83f8-ad72360be511)
 
 A Software Developer Student
 
